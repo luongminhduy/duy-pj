@@ -1,0 +1,46 @@
+{
+    "preload": {
+        "files": [
+            {
+                "type": "image",
+                "key": "game1",
+                "url": "./assets/images/game1.png"
+            },
+            {
+                "type": "image",
+                "key": "game2",
+                "url": "./assets/images/game2.png"
+            },
+            {
+                "type": "image",
+                "key": "game3",
+                "url": "./assets/images/game3.png"
+            },
+            {
+                "type": "image",
+                "key": "game4",
+                "url": "./assets/images/game4.png"
+            },
+            {
+                "type": "image",
+                "key": "car",
+                "url": "./assets/images/car.png"
+            },
+            {
+                "type": "image",
+                "key": "brick",
+                "url": "./assets/images/brick.png"
+            },
+            {
+                "type": "image",
+                "key": "base",
+                "url": "./assets/images/base.png"
+            },
+            {
+                "type": "image",
+                "key": "oldWomen",
+                "url": "./assets/images/oldWomen.png" 
+            }
+        ]
+    }
+}
